@@ -1,3 +1,7 @@
 mola mas!!!
 1 linea 
+<<<<<<< HEAD
 3 Lionea cliente
+=======
+2 Linea en server
+>>>>>>> refs/remotes/origin/main
